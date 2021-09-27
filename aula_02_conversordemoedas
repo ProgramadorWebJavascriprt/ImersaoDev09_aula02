@@ -1,5 +1,18 @@
 <html>
-<head> <title> </head> </head>
+<head> <title>aula_02_conversor_de_moedas </title>
+     <link rel="stylesheet" href="estilo.css">
+      <meta charset="utf-8">
+       <script> aula02.js </script>
+       <header>
+        <marquee >Revisão de Códigos da Imersão Dev Alura dos dias 13/09 a 24/09  </marquee>
+        <div class="menu">
+         <ul>
+       <li><a href="https://www.youtube.com/c/Alura">Youtube Alura</a> </li>
+       <li><a href="https://www.facebook.com/AluraCursosOnline">facebook Alura</a></li>
+       <li><a href="https://www.instagram.com/aluraonline/">Instragam Alura</a> </li> 
+      </ul>
+        </div>
+      </header>
 
 <body>
 src="https://www.alura.com.br/assets/img/imersoes/dev-2021/logo-imersao-conversor-de-moedas.svg" class="page-logo" alt=""><br><br>
@@ -11,5 +24,19 @@ src="https://www.alura.com.br/assets/img/imersoes/dev-2021/logo-imersao-converso
 <a href="https://alura.com.br/" target="_blank">
   <img src="https://www.alura.com.br/assets/img/home/alura-logo.svg" alt="" class="alura-logo">
 </body>
-
+<footer>
+  <marquee >Revisão de Códigos da Imersão Dev Alura dos dias 13/09 a 24/09  </marquee>
+</footer>
+<div class="rodape">
+  <div class="rodape">
+        <ul><li><a href="https://www.facebook.com/">facebook</a></li>
+        <li><a href="https://www.youtube.com/">you tube</a></li>
+        <li><a href="https://web.whatsapp.com/">whats</a></li>
+        <li><a href="https://mail.google.com/mail/u/0/?tab=wm&ogbl#inbox">e-mail</a></li>
+    </ul>
+ </div>
+<div class="rodape">
+ <center>Andre Luis Kunert- Setembro/2021 -Imersão Dev Alura </center> 
+</footer>
+</div>
 </html>
