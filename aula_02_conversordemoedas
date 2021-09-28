@@ -26,7 +26,6 @@ src="https://www.alura.com.br/assets/img/imersoes/dev-2021/logo-imersao-converso
 </body>
 <footer>
   <marquee >Revisão de Códigos da Imersão Dev Alura dos dias 13/09 a 24/09  </marquee>
-</footer>
 <div class="rodape">
   <div class="rodape">
         <ul><li><a href="https://www.facebook.com/">facebook</a></li>
@@ -37,6 +36,7 @@ src="https://www.alura.com.br/assets/img/imersoes/dev-2021/logo-imersao-converso
  </div>
 <div class="rodape">
  <center>Andre Luis Kunert- Setembro/2021 -Imersão Dev Alura </center> 
-</footer>
+
 </div>
+</footer>
 </html>
