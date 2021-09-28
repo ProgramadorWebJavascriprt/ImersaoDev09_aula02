@@ -56,4 +56,69 @@ body {
     color: #ffffff;
     font-size: 30px;
   }
+ marquee{
+    font-size: 38px;
+        font-family: Arial, Helvetica, sans-serif;
+            color: brown;
+             background-color: cadetblue;
+          }
+
+.menu ul{
+margin: 0px;
+background-color: #7FFFD4;
+list-style: none;
+text-align: right;}
+
+.menu ul li{
+  
+  display: inline;
+}
+ .menu ul li a{
+  padding: 10px 10px;
+  display: inline-block;
+  color: black;
+  text-decoration: none;
+  
+
+}
+ .menu ul li a:hover{
+   color: #D3D3D3;}
+
+ .menu ul li a{
+background-color: aqua;
+font-family: arial;
+font-size: 20px;
+color: blue;
+text-align: right;
+} 
+.rodape ul{
+    margin: 0px;
+    background-color: #7FFFD4;
+    list-style: none;
+    text-align: right;
+
+   }
+    .rodape ul li{
+      display: inline;
+
+    }
+     .rodape  ul li a{
+      padding: 10px 10px;
+      display: inline-block;
+      color:blue;
+      text-decoration: none;
+      
+    }
+     .rodape  ul li a:hover{
+       color: #D3D3D3;}
+   
+
+   
+.rodape{
+      background-color: aqua;
+      font-family: arial;
+      font-size: 20px;
+      color: blue;
+      text-align: right;
+}  
   
